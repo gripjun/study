@@ -7,4 +7,5 @@ http://www.vogella.com/tutorials/AndroidBackgroundProcessing/article.html
 https://developer.android.com/samples/NetworkConnect/index.html?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
 
 3. Inner Class에 대한 설명 
+
 https://code.tutsplus.com/tutorials/learn-java-for-android-development-inner-classes--mobile-3530?utm_source=udacity&utm_medium=course&utm_campaign=android_basics
